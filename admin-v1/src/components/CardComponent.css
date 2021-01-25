@@ -1,8 +1,0 @@
-.productcard{
-    border : 1px solid #ae275f;
-  }
-  
-.productcard:hover {
-border : 2px solid #ae275f;
-/* transform: scale(1.01); */
-}
